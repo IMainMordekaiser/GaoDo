@@ -1,0 +1,13 @@
+[
+  {
+    "name": "daylatenfilecodecuagaodo (in project daylatenfilecodecuagaodo)",
+    "file": "/Users/duongphamminhdung/Documents/GitHub/daylatenfilecodecuagaodo/build/libs/daylatenfilecodecuagaodo.jar",
+    "extensions": [
+      "/Users/duongphamminhdung/Documents/GitHub/daylatenfilecodecuagaodo/build/tmp/expandedArchives/halsim_gui-2021.3.1-osxx86-64.zip_0a2506ae8abe4d48a2f11205f0a78349/osx/x86-64/shared/libhalsim_gui.dylib",
+      "/Users/duongphamminhdung/Documents/GitHub/daylatenfilecodecuagaodo/build/tmp/expandedArchives/halsim_ds_socket-2021.3.1-osxx86-64.zip_622bf5d5135ea064f6c332f5c8bd1ba4/osx/x86-64/shared/libhalsim_ds_socket.dylib"
+    ],
+    "env": {},
+    "librarydir": "/Users/duongphamminhdung/Documents/GitHub/daylatenfilecodecuagaodo/build/tmp/jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  }
+]
